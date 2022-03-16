@@ -1,5 +1,5 @@
 {
-    "name": "ajimoti/roles-and-permissions",
+    "name": "eventraptor/roles-and-permissions",
     "description": "Implement roles and permissions on your laravel application, supports many-to-many relationship (pivot tables).",
     "keywords": [
         "ajimoti",
